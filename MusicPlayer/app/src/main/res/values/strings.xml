@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="m1">You have not subscribed.</string>
+    <string name="m2">For subscription click here</string>
+    <string name="p1">Select the packs you want</string>
+    <string name="p2">This one costs $20 for ONE month.</string>
+    <string name="p3">This one costs $50 for THREE months.</string>
+    <string name="p4">This one costs $80 for SIX month.</string>
+    <string name="p5">This one costs $120 for ONE YEAR.</string>
+    <string name="s">Descrption about the Activity</string>
+    <string name="f">This actitvity show all the favourite songs</string>
+    <string name="om">This activity is for Online Music</string>
+    <string name="pl">This activity show all the Playlists</string>
+    <string name="ms">This activity show all the songs</string>
+    <string name="p">This activity is for payment for subscription</string>
+    <string name="ps">This activity gives the flow of song</string>
+    <string name="plone">This activity shows the songs in playlist one</string>
+</resources>
